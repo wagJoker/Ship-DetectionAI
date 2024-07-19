@@ -31,7 +31,7 @@ Install the required dependencies:
 
 Make sure you have  3.7+ and pip installed. Then, run:
 
-sh
+
 
 pip install -r requirements.txt
 Set up the dataset:
@@ -42,11 +42,11 @@ Download the dataset and place the images and train_ship_segmentations.csv in a 
 
 
 
-#Usage
+# Usage
 Training
 To train the model, you need to prepare the data and then run the training script. Here is an example of how you can do it:
 
-#Prediction
+# Prediction
 To predict the ship locations in the test images, run the following script:
 
 
@@ -88,8 +88,8 @@ submission_df.to_csv('submission.csv', index=False)
 ##Results
 After running the prediction script, the results are saved in submission.csv.
 
-##Contributing
+## Contributing
 Contributions are welcome! Please fork this repository and submit pull requests.
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
