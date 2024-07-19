@@ -26,7 +26,7 @@ The training data consists of images and their corresponding ground truth annota
 
    ```sh
    git clone https://github.com/wagjoker/Ship-DetectionAI.git
-   cd ship-detection
+   cd Ship-DetectionAI
 Install the required dependencies:
 
 Make sure you have  3.7+ and pip installed. Then, run:
